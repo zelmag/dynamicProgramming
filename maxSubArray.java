@@ -1,5 +1,6 @@
 /*Find the max sum of sub array of at least 1 item */
 //Example: [-2,1,-3,4,-1,2,1,-5,4]. output: 6, from [4,-1,2,1]
+//input 9 -2 1 -3 4 -1 2 1 -5 4
 import java.util.Scanner;
 public class maxSubArray {
     public static void main(String[] args) {
