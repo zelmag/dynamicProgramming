@@ -1,3 +1,3 @@
 # dynamicProgramming
 
-This a collection of solutions to dynamic programming questions
+This is a collection of solutions to dynamic programming questions
