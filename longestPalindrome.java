@@ -1,5 +1,5 @@
 /*Find the longest palindrome by starting from a center and expanding outwards. 
-ex: babad, output: bab or aba
+ex: babad, output: bab or aba */
 import java.util.Scanner;
 public class palindrome {
     public static void main(String[] args) {
